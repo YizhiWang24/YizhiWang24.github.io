@@ -357,7 +357,7 @@ a:focus-visible {
 }
 
 .aboutme__content p {
-  max-width: 260px;
+  max-width: 400px;
   color: #ffffff80;
   grid-area: text;
   margin: 0;
